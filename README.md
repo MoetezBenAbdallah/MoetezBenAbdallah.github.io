@@ -1,7 +1,11 @@
 # eJPT Study Guide: Roadmap to Success
 
 ## Introduction
-Welcome to my personal eJPT Study Guide! (48 hours exam) This guide will help you pass the eJPT exam by providing essential tools, resources, and strategies. Based on my hands-on experience and extensive preparation, this roadmap focuses on practical knowledge and the skills required to pass the exam efficiently.
+Welcome to my personal eJPT Study Guide! This guide will help you pass the eJPT exam by providing essential tools, resources, and strategies.
+
+The eJPT exam consists of **35 questions**, and you must achieve a passing score of **70%**. You have **48 hours** to complete the exam, and it costs **$250** for a **3-month subscription**, which includes **one voucher**. Based on my hands-on experience and extensive preparation, this roadmap focuses on practical knowledge and the skills required to pass the exam efficiently.
+
+
 
 ## Author
 **Created by Moetez Ben Abdallah**  
