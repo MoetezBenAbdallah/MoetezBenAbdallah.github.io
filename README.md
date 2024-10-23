@@ -87,7 +87,7 @@ I focused heavily on mastering the tools that I would need for the exam, includi
 - **Use Nmap Effectively:** Start by scanning the network for open ports and services. Use faster scanning options like `-T4` and leverage NSE scripts for service enumeration.
 - **Manage Your Time:** Immediately submit flags when discovered to avoid potential session resets. This is crucial during the exam.
 - **Privilege Escalation Techniques:** Be ready to exploit misconfigurations, weak passwords, and known vulnerabilities (especially in Drupal and WordPress).
-- **Documentation & Note-taking:** Use CherryTree to keep organized notes, commands, and results throughout the exam.
+- **Documentation & Note-taking:** Use notion.so to keep organized notes, commands, and results throughout the exam.
 
 ---
 
@@ -126,7 +126,9 @@ My eJPT journey has been a rewarding experience, and this guide reflects the ess
 - [eJPT Official Documentation](https://www.elearnsecurity.com/course/ejpt/)
 - [Free eJPT Study Guide](https://www.elearnsecurity.com/downloads/)
 
-- 
+## Contact
+- [My linkedin profile](https://www.linkedin.com/in/moetez-ben-abdallah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [My github profile](https://github.com/MoetezBenAbdallah)
 
 
 
